@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-image: url("/bg-tablet-pattern.svg");
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 125% -10%;
+}
+
+#cta {
+    background-image: url("/bg-simplify-section-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 20% 100%;
+}
