@@ -1,8 +1,15 @@
-# React + Vite
+# Manage Landing Page
+Live [here](https://manage-landing-page-two-zeta.vercel.app/)
+<hr>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Frontend Mentor challenge
 
-Currently, two official plugins are available:
+This was a frontend mentor's challenge to build an responsive landing page using html, css and js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+frontend mentor challenge [here](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
+
+I used tailwind, and, <br>
+React, which I know, I didn't have to use, I could have used simple html, css and little javascript :)
+
+### preview 
+![desktop-preview](https://github.com/mohits-git/manage-landing-page/assets/152606488/521fdbef-be45-4109-820b-396820b2ee72)
