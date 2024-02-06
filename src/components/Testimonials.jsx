@@ -1,11 +1,11 @@
 export default function Testimonials() {
     return (
-        <div className="max-w-6xl px-5 mx-auto mt-32 text-center">
+        <div className="px-5 mx-auto mt-32 text-center">
             <h2 className="font-bold text-4xl text-center">
                 What they’ve said
             </h2>
             <div className="flex flex-col mt-24 md:flex-row md:space-x-6">
-                <div className="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
+                <div className="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:min-w-1/2">
                     <img src="/avatar-anisha.png" className="w-16 -mt-14" alt="Anisha Li" />
                     <h5 className="font-bold text-lg">Anisha Li</h5>
                     <p className="text-sm text-darkGrayishBlue">
@@ -13,7 +13,7 @@ export default function Testimonials() {
                         visibility on larger milestones at all times keeps everyone motivated.”
                     </p>
                 </div>
-                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
+                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:min-w-1/2">
                     <img src="/avatar-ali.png" className="w-16 -mt-14" alt="Anisha Li" />
                     <h5 className="font-bold text-lg">Ali Bravo</h5>
                     <p className="text-sm text-darkGrayishBlue">
@@ -22,7 +22,7 @@ export default function Testimonials() {
                         more focused.”
                     </p>
                 </div>
-                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
+                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:min-w-1/2">
                     <img src="/avatar-richard.png" className="w-16 -mt-14" alt="Anisha Li" />
                     <h5 className="font-bold text-lg">Richard Watts</h5>
                     <p className="text-sm text-darkGrayishBlue">
@@ -30,7 +30,7 @@ export default function Testimonials() {
                         and focused. I can’t stop recommending them to everyone I talk to!”
                     </p>
                 </div>
-                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
+                <div className="hidden md:flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:min-w-1/2">
                     <img src="/avatar-shanai.png" className="w-16 -mt-14" alt="Anisha Li" />
                     <h5 className="font-bold text-lg">Shanai Gough</h5>
                     <p className="text-sm text-darkGrayishBlue">
